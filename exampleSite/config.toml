@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://sessjr.com"
+baseURL = "https://sessjr-personal.vercel.app/"
 languageCode = "en-gb"
 title = "Sidney Junior"
 googleAnalytics = ""
