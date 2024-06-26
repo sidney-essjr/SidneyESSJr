@@ -1,17 +1,17 @@
 ---
 banner:
-  title: Hi! I’m Sam
+  title: Hi! I’m Sidney!
 social:
   twitter: ""
-  linkedin: sam-robbins-gb
-  github: samrobbins85
+  linkedin: sidney-souza-junior
+  github: sidney-essjr
   gitlab: ""
   facebook: ""
   instagram: ""
-  gmail: samrobbinsgb
+  gmail: sidney.e.s.s.jr@gmail.com
 about:
   enable: true
-  content: 2nd Year Durham Computer Science Student
+  content: 2nd year of systems analysis and development
   button:
     btnText: Find out more
     URL: "/about"
@@ -20,6 +20,26 @@ skill:
   item:
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Details coming soon, contact me if you want to know more
+  item:
+    - title: TypeScript
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png
+      description: Details coming soon, contact me if you want to know more
+  item:
+    - title: React
+      logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
+      description: Details coming soon, contact me if you want to know more
+  item:
+    - title: NextJs
+      logo: https://www.svgrepo.com/show/354113/nextjs-icon.svg
+      description: Details coming soon, contact me if you want to know more
+  item:
+    - title: Java
+      logo: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png
+      description: Details coming soon, contact me if you want to know more
+  item:
+    - title: Spring
+      logo: https://cdn.worldvectorlogo.com/logos/spring-3.svg
       description: Details coming soon, contact me if you want to know more
 experience:
   enable: true
